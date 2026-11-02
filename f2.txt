@@ -1,2 +1,6 @@
 hello saket
+<<<<<<< Updated upstream
 one new line after stash
+=======
+hello this new line
+>>>>>>> Stashed changes
